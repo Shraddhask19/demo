@@ -1,0 +1,14 @@
+Enter plain text
+Enter key
+
+a b c d e 
+f g h i k 
+l m n o p 
+q r s t u 
+v w x y z 
+
+Plain text is: SAVETHEWORLD
+Key is: 
+Cipher text is: BBBBBBBBBBBB
+
+Plain text after decription is: aaaaaaaaaaaa

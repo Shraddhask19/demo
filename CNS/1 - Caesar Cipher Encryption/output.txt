@@ -1,0 +1,9 @@
+Enter plain text
+Enter key
+
+Plain text is: 
+Key is: 0
+
+Cipher text is: 
+
+Plain text after decription is: 

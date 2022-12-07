@@ -1,0 +1,2 @@
+Key: 0
+Cipher Text: LOVE

@@ -1,0 +1,2 @@
+Enter 2 numbers to find GCD
+GCD is 577
